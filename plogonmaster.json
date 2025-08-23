@@ -1,23 +1,21 @@
 [
-    {
-        "Author": "Lutherian",
-        "Name": "XIV Sync",
-        "InternalName": "MareSynchronos",
-        "AssemblyVersion": "0.11.22",
-        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/xivsync/sync_client",
-        "Tags": [
-          "customization"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/images/icon.png",
-        "Punchline": "Let others see you as you see yourself.",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/0.11.22.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/0.11.22.zip"
-      }
+  {
+    "Author": "Lutherian",
+    "Name": "XIV Sync",
+    "InternalName": "MareSynchronos",
+    "AssemblyVersion": "0.11.22",
+    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xivsync/sync_client",
+    "Tags": ["customization"],
+    "DalamudApiLevel": 13,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/images/icon.png",
+    "Punchline": "Let others see you as you see yourself.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/0.11.22.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/0.11.22.zip"
+  }
 ]
