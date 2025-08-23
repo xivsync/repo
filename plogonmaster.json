@@ -2,7 +2,7 @@
   {
     "Author": "Lutherian",
     "Name": "XIV Sync",
-    "InternalName": "MareSynchronos",
+    "InternalName": "XIVSync",
     "AssemblyVersion": "0.11.22",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
@@ -10,12 +10,12 @@
     "Tags": ["customization"],
     "DalamudApiLevel": 13,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/images/icon.png",
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip" 
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip" 
   }
 ]
