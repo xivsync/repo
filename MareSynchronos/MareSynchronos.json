@@ -1,7 +1,7 @@
 {
   "Author": "Lutherian",
   "Name": "XIV Sync",
-  "InternalName": "XIVSync",
+  "InternalName": "MareSynchronos",
   "AssemblyVersion": "0.8.35.0",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",
