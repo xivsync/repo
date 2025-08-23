@@ -15,7 +15,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/0.11.22.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/0.11.22.zip"
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/MareSynchronos/latest.zip" 
   }
 ]
