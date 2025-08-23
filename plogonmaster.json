@@ -3,7 +3,7 @@
     "Author": "Lutherian",
     "Name": "XIV Sync",
     "InternalName": "XIVSync",
-    "AssemblyVersion": "0.11.22",
+    "AssemblyVersion": "0.11.23",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/xivsync/sync_client",
@@ -14,8 +14,8 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip" 
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/new.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/new.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/new.zip" 
   }
 ]
