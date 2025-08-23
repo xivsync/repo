@@ -2,7 +2,7 @@
     {
         "Author": "Lutherian",
         "Name": "XIV Sync",
-        "InternalName": "XIV Sync",
+        "InternalName": "XIVSync",
         "AssemblyVersion": "0.11.22",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
