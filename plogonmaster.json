@@ -15,7 +15,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/new.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/new.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/test.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/new.zip" 
   }
 ]
