@@ -1,23 +1,21 @@
 ﻿[
-    {
-        "Author": "Lutherian",
-        "Name": "XIV Sync",
-        "InternalName": "XIVSync",
-        "AssemblyVersion": "1.28.1",
-        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/xivsync/sync_client",
-        "Tags": [
-            "customization"
-        ],
-        "DalamudApiLevel": 13,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/images/icon.png",
-        "Punchline": "Let others see you as you see yourself.",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/downloads/XIVSync-v1.28.0.81.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/XIVSync-v1.28.0.82.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/downloads/XIVSync-v1.28.0.81.zip"
-    }
+  {
+    "Author": "Lutherian",
+    "Name": "XIV Sync",
+    "InternalName": "XIVSync",
+    "AssemblyVersion": "1.28.0",
+    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/xivsync/sync_client",
+    "Tags": ["customization"],
+    "DalamudApiLevel": 13,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/images/icon.png",
+    "Punchline": "Let others see you as you see yourself.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/XIVSync-v1.28.0.81.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/XIVSync-v1.28.0.81.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/XIVSync-v1.28.0.81.zip" 
+  }
 ]
