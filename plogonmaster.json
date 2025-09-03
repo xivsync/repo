@@ -14,9 +14,10 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/XIVSync-v1.28.0.81.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/XIVSync-v1.28.0.81.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/xivsync/repo/main/XIVSync/XIVSync-v1.28.0.81.zip" 
   }
 
 ]
+
